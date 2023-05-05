@@ -1,0 +1,4 @@
+libraries used:
+1) pandas: in order to convert the project into CSV
+2) request liberary: to take HTTP request from websites
+3) Beautifulsoup: using for data scraping
